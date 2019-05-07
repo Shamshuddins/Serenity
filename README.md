@@ -1,0 +1,3 @@
+# Serenity
+
+mvn clean verify
